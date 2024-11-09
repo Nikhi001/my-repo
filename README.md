@@ -1,2 +1,3 @@
 # my-repo
-this is my first respository
+this is my first respository 
+Author-Nikhil Umredkar
